@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    background-color: darkslategray;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 200%;
+    color: white;
+}
+
+h1 {
+    margin-top: -20px;
+    text-align: center;
+    text-size-adjust: 100%;
+    background-color: black; 
+    height: auto;
+    width: auto;
+    font-size: 600%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+
+button {
+     font-size: 200%;
+     border-radius: 5px;
+     background-color: transparent;
+     border: solid white 1px;
+     color: white;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+#new-Game {
+    border-radius: 3px;
+    margin-top: 20px;
+}
